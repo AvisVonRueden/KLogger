@@ -1,5 +1,5 @@
 {
-    "name": "katzgrau/klogger",
+#   "name": "katzgrau/klogger",
     "version": "1.2.2",
     "description": "A Simple Logging Class",
     "keywords": ["logging"],
@@ -28,3 +28,4 @@
         "classmap": ["src/"]
     }
 }
+ 
